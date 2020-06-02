@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @RestController
-@RequestMapping("/yurenia_db")
+@RequestMapping("/hrynyk_db")
 public class ProductController {
     @Autowired
     ProductService productService;
